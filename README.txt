@@ -26,6 +26,8 @@ step 3 : you enter the name of the file to decrypt (the one you put in the folde
 step 4 : after you enter the name of the result file. 
 step 5 : enter the key that was used to encrypt.
 
+https://www.youtube.com/watch?v=1yKY8aMJf9M
+
 ______________________________________________________________________________________________________________________________________________________________________
 
 -FR-
@@ -55,3 +57,6 @@ Pour déchiffrer :
 étape 3 : vous rentrez le nom du fichier à déchiffrer (celui que vous avez mis dans le dossier).
 étape 4 : après vous rentrez le nom du fichier du résultat. 
 étape 5 : rentrez la clé qui a été utiliser pour chiffrer.
+
+
+https://www.youtube.com/watch?v=1yKY8aMJf9M
