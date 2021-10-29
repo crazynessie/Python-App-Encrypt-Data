@@ -10,7 +10,7 @@
 
      
      
-# by crazynessie / ROD    
+# by crazynessie / RØD    
 # https://github.com/crazynessie
 
 
